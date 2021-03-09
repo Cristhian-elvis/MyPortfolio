@@ -399,6 +399,9 @@ img {
 
         justify-content: space-between;
     }
+    .nav__logo{
+        font-size: var(--normal-font-size);
+    }
     .nav__list {
         display: flex;
         padding-top: 0;
